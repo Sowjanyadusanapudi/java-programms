@@ -1,0 +1,83 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+</head>
+<body>
+    <header>
+        <h1 align="center"><u> RESUME </u></h1>
+        <h2>Name: Dusanapudi.Sowjanya</h2>
+        <h2>Job Role:Web Developer</h2>
+<h2>Email id:sowjanyadusanapudi531@gmail.com</h2><h2>Phone:8121793799</h2><hr>
+    </header>
+    <h2>ABOUT ME:</h2>
+    <p><h3>I am currently pursuing Btech(ECE)final year.I am a passionate web developer with strong foundation in html.Searching for the job role of web developer.
+    also having knowledge on c,python and java. I am good at communication skills.
+    Completed some basic programs on html.</h3></p><br>
+    <h2>EDUCATION:</h2>
+    <table border="3px" cellpadding="10px">
+        <tr>
+            <th>SNO</th>
+            <TH>EDUCATION</TH>
+            <th>INSTITUTION</th>
+            <TH>BOARD</TH>
+            <TH>PERCENTAGE/GPA</TH>
+            <TH>YEAR OF PASSING</TH>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>BTECH(ECE)</td>
+            <td>Sri Vasavi Institute of Engineering & Technology</td>
+            <td>JNTUK</td>
+            <td>6.98(upto 3-2)</td>
+            <td>2026</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>INTERMEDIATE</td>
+            <td>Sri chaitnaya Junior College (Gudivada)</td>
+            <td>BOARD OF INTERMEDIATE</td>
+            <td>67.8%</td>
+            <td>2022</td>
+        </tr>
+        <tr>
+           <td>3</td>
+           <td>SSC</td>
+           <td>Pragathi english medium high School (kothapalli)</td>
+           <td>SSC</td>
+           <td>98%</td>
+           <td>2020</td>
+        </tr>
+            </table>
+        <h2>INTERNSHIP EXPERIENCE:</h2>
+        <h3>VLSI Front end RTL design -BIST Technologies</h3>
+        <h3>Duration:13-05-2024 to 14-07-2024</h3>
+        <ul>
+<h3> <li>I studied methodologies for designig VLSI.</li>
+            <li>I learned fundamentals of VLSI.</h3></li></ul>
+       <h2>SKILLS:</h2> 
+       <h3><ul>
+            <li>c</li>
+            <li>Python</li>
+            <li>java</li>
+            <li>HTML</li>
+            <li>Communication Skills</li>            
+        </ul></h3>
+    <h2>PROJECTS:</h2>
+    <ul><h3>
+        <li>Community Service Project on "plantation" </li>
+        <li>Create a website using html and css</li>
+    </h3>
+    </ul>
+
+<footer><h2>CERTIFICATIONS:</h2>
+            <ul><h3>
+<li>Certification on completed course of VLSI Front end RTL design</li>
+<li>Certification on Python Programming</li>
+</h3>
+    </ul>
+ </footer>
+</body>
+</html>
