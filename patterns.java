@@ -13,11 +13,11 @@
       }
       }
 output:   * * * * * *
-                * * * * * *
-                * * * * * *
-                * * * * * *
-                * * * * * *
-                * * * * * *      */
+          * * * * * *
+          * * * * * *
+          * * * * * * 
+          * * * * * *
+          * * * * * *      */
 /*2.public class patterns
        { 
        public static void main (String args[])
@@ -33,10 +33,10 @@ output:   * * * * * *
       }
       }
 output:   1 1 1 1 1
-                2 2 2 2 2
-                3 3 3 3 3
-                4 4 4 4 4 
-                5 5 5 5 5    */
+          2 2 2 2 2
+          3 3 3 3 3
+          4 4 4 4 4 
+          5 5 5 5 5    */
 /*3.public class patterns
        { 
        public static void main (String args[])
@@ -52,10 +52,10 @@ output:   1 1 1 1 1
       }
       }
 output:  1 2 3 4 5
-               1 2 3 4 5
-               1 2 3 4 5
-               1 2 3 4 5
-               1 2 3 4 5   */
+         1 2 3 4 5
+         1 2 3 4 5
+         1 2 3 4 5
+         1 2 3 4 5   */
 /*4.public class patterns
        { 
        public static void main (String args[])
@@ -73,10 +73,10 @@ output:  1 2 3 4 5
       }
       }
 output:   1 2 3 4 5
-                6 7 8 9 10
-               11 12 13 14 15
-               16 17 18 19 20 
-               21 22 23 24 25   */
+          6 7 8 9 10
+          11 12 13 14 15
+          16 17 18 19 20 
+          21 22 23 24 25   */
 /*5.public class patterns 
        { 
        public static void main (String args[])
@@ -98,10 +98,10 @@ output:   1 2 3 4 5
       }
       }
 output:   1   2   3   4   5
-                6   7   8   9   1
-                2   3   4   5   6
-                7   8   9   1   2
-                3   4   5   6   7  */
+          6   7   8   9   1
+          2   3   4   5   6
+          7   8   9   1   2
+          3   4   5   6   7  */
 /*6.public class patterns
        { 
        public static void main (String args[])
@@ -119,10 +119,10 @@ output:   1   2   3   4   5
       }
       }
 output:  1   3   5   7   9
-              11   13   15   17   19
-              21   23   25   27   29
-              31   33   35   37   39
-              41   43   45   47   49   */
+         11   13   15   17   19
+         21   23   25   27   29
+         31   33   35   37   39
+         41   43   45   47   49   */
 /*7.public class patterns
        { 
        public static void main (String args[])
@@ -146,10 +146,10 @@ output:  1   3   5   7   9
        }
       }
 output:  1  0  1  0  1
-               1  0  1  0  1
-               1  0  1  0  1
-               1  0  1  0  1
-               1  0  1  0  1    */
+         1  0  1  0  1
+         1  0  1  0  1
+         1  0  1  0  1
+         1  0  1  0  1    */
  /*8.public class patterns
        { 
        public static void main (String args[])
@@ -168,11 +168,11 @@ output:  1  0  1  0  1
        } 
        }
        }  
-output:   *
-              * *
+output:       *
+             * *
             * * *
            * * * *
-         * * * * *       */
+          * * * * *       */
 /*11. public class patterns
          { 
           public static void main (String args[])
@@ -193,9 +193,9 @@ output:   *
        }
        }
        } 
-output:       *
-                 * * *
-              * * * * *
+output:          *
+               * * *
+             * * * * *
            * * * * * * *
          * * * * * * * * *      */
 /*9.public class patterns
@@ -217,11 +217,11 @@ output:       *
       }
       }
       }
-output:     2
+output:          2
                 2 4
-              2 4 6
-            2 4 6 8
-          2 4 6 8 10     */
+               2 4 6
+              2 4 6 8
+             2 4 6 8 10     */
 /*10.  public class patterns
           {
           public static void main(String[] args)
@@ -234,11 +234,11 @@ output:     2
         System.out.println();
         }
         }
-output: I
-              IN
-              IND  
-              INDI
-              INDIA*/
+output:   I
+          IN
+          IND   
+          INDI
+          INDIA  */
 /*19. public class patterns
           { 
           public static void main (String args[])
@@ -254,8 +254,8 @@ output: I
          }
          }
 output:     0
-                  *1
-                  **2
-                  ***3
-                  ****4
-                  *****5      */
+            *1
+            **2
+            ***3
+            ****4
+            *****5      */
