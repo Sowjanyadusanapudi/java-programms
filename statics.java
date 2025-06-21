@@ -42,13 +42,13 @@ s.st();
 }
 }
 output:  static
-               3
-               instance
-               7
-               2
-               1
-               3
-               7  */
+         3
+         instance
+         7
+         2
+         1
+         3
+         7  */
 
 
 /*2. class Static
@@ -69,8 +69,8 @@ method();
 }
 
 output: Main Method
-              20
-              10     */
+        20
+        10     */
 
 
 /* 3. class Static
@@ -91,8 +91,8 @@ s.print();
 }
 
 output: Main Method
-              20
-              10   */
+        20
+        10   */
 
 /* 4. class Static
 {
@@ -154,11 +154,11 @@ output:  welcome */
 }
 
 output: Static Variables:
-             10
-             15
-             Instance Variables:
-             20
-             25  */
+        10
+        15
+        Instance Variables:
+        20
+        25  */
 
 
 /* 7. class Static
@@ -180,4 +180,4 @@ output: Static Variables:
     }
 }
 output:   Welcome
-                Back to home    */
+          Back to home    */
